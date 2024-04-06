@@ -33,7 +33,7 @@ You can install Console Killer directly from the Visual Studio Code Marketplace.
 
 ## Feedback
 
-Your feedback is valuable! If you encounter any issues or have suggestions for improvement, please feel free to submit them in the [GitHub repository](https://github.com/your-username/console-killer/issues).
+Your feedback is valuable! If you encounter any issues or have suggestions for improvement, please feel free to submit them in the [GitHub repository](https://github.com/justmahmoud31/Console-Killer).
 
 ## License
 
